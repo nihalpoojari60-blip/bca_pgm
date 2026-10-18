@@ -44,6 +44,6 @@ int main(){
         }
         printf("array size is not validated try again......");
     }
-    for
+    
 }
 
